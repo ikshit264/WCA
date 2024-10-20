@@ -2,6 +2,9 @@
 
 This project is a **WhatsApp Chat Analyzer** built using Python and Streamlit. It takes a WhatsApp chat export file in `.txt` format, processes it, and provides various statistics and visualizations, such as message counts, media shares, emoji usage, word clouds, and activity maps.
 
+# Link
+https://wcaiyt.streamlit.app/
+
 ## Features
 
 - **Total Messages**: Displays the number of messages sent.
