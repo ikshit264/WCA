@@ -23,4 +23,7 @@ This project is a **WhatsApp Chat Analyzer** built using Python and Streamlit. I
 git clone https://github.com/ikshit264/WCA.git
 cd WCA
 
+```
+### 2. Run streamlit
+```bash
 streamlit run app.py
